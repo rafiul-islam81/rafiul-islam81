@@ -18,7 +18,7 @@ Skills: HTML / CSS / JavaScript / Java / Python / PHP
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul-islam81)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul-islam81&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafiul-islam81&theme=radical&show_icons=true)  
 
@@ -26,5 +26,5 @@ Skills: HTML / CSS / JavaScript / Java / Python / PHP
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/rafiul-islam81/contributions?format=svg&private=false)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rafiul-islam81)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=rafiul-islam81&theme=nightowl)  
 
