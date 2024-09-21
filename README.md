@@ -20,7 +20,7 @@ Skills: HTML / CSS / JavaScript / Java / Python / PHP
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul-islam81)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafiul-islam81&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafiul-islam81&theme=radical&show_icons=true)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rafiul-islam81)](https://github.com/ryo-ma/github-profile-trophy)
 
